@@ -1,0 +1,1 @@
+Developed a comprehensive quiz application in Java, integrating SQL database functionalities to store and manage questions, answers, and user progress. Implemented features such as random question generation, scoring, and personalised feedback to enhance user engagement and learning outcomes.
